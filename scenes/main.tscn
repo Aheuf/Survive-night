@@ -22,3 +22,9 @@ stream = ExtResource("1_56vvv")
 volume_db = -10.0
 autoplay = true
 parameters/looping = true
+
+[node name="Entities" type="Node2D" parent="."]
+
+[node name="World" type="Node2D" parent="."]
+
+[node name="Projectiles" type="Node2D" parent="."]
